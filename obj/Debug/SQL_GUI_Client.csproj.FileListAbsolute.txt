@@ -1,0 +1,8 @@
+C:\Projects\SQL_GUI_Client\SQL_GUI_Client\bin\Debug\SQL_GUI_Client.exe
+C:\Projects\SQL_GUI_Client\SQL_GUI_Client\bin\Debug\SQL_GUI_Client.pdb
+C:\Projects\SQL_GUI_Client\SQL_GUI_Client\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\SQL_GUI_Client\SQL_GUI_Client\obj\Debug\SQL_GUI_Client.Form1.resources
+C:\Projects\SQL_GUI_Client\SQL_GUI_Client\obj\Debug\SQL_GUI_Client.Properties.Resources.resources
+C:\Projects\SQL_GUI_Client\SQL_GUI_Client\obj\Debug\SQL_GUI_Client.csproj.GenerateResource.Cache
+C:\Projects\SQL_GUI_Client\SQL_GUI_Client\obj\Debug\SQL_GUI_Client.exe
+C:\Projects\SQL_GUI_Client\SQL_GUI_Client\obj\Debug\SQL_GUI_Client.pdb
